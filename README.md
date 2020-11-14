@@ -2,7 +2,7 @@
 
 ## About
 
-This is a python script that checks the availability of a web service (interval 60sec) and send SMS (by [Twilio](https://www.twilio.com)) in case of a shutdown.
+This is a **python script** that checks the availability of a web service (interval 60sec) and send SMS (by [Twilio](https://www.twilio.com)) in case of a shutdown.
 
 ## Installation
 
