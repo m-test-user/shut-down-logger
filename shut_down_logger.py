@@ -13,7 +13,7 @@ URL = os.getenv('URL')
 response_status = ''
 err_counter = 0
 err_log_timeout = 121
-requests_timeout = 3
+requests_timeout = 60
 
 def response_get(response_status):
 
